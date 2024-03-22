@@ -36,7 +36,7 @@ To use the application:
 - [OpenWeather.org](https://openweathermap.org/): Provides real-time weather data.
 
 ## Credits
-- **Developed by**: Pradeish Misara 
+- **Developed by**: Omkar Narveer 
 
 
 ## License
